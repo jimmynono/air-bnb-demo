@@ -1,0 +1,4 @@
+.all-vacation-rentals {
+    display: flex;
+    flex-direction: row;
+}
